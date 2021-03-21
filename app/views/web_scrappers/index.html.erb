@@ -1,0 +1,7 @@
+<h1><%= t('scrapping.index.title') %></h1>
+
+<h3>Links</h3>
+<% if @result.present? %>
+<% else %>
+  <%= t('scrapping.index.no_data') %>
+<% end %>

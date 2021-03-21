@@ -1,0 +1,1095 @@
+[
+  {
+    "BBC - Home": {
+      "page_url": "https://www.bbc.co.uk",
+      "assets": {
+        "css_fonts": [
+          {
+            "asset_type": "linkTags",
+            "url": "https://www.bbc.co.uk/"
+          },
+          {
+            "asset_type": "linkTags",
+            "url": "https://www.bbc.com/"
+          },
+          {
+            "asset_type": "linkTags",
+            "url": "https://www.bbc.com/"
+          },
+          {
+            "asset_type": "manifest",
+            "url": "https://static.files.bbci.co.uk/core/manifest.8d4237cbd18eb052a5fa59995d4624b88fd4c643.json"
+          }
+        ],
+        "js": [
+          {
+            "name": "script",
+            "value": "https://static.files.bbci.co.uk/core/website/assets/static/scripts/riddle/cd06631/riddle.3d2cba11557be32675989817c62bd9c0.js"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          }
+        ]
+      },
+      "links": [
+        {
+          "name": "BBC Homepage",
+          "value": "https://www.bbc.com"
+        },
+        {
+          "name": "Accessibility Help",
+          "value": "https://www.bbc.co.uk/accessibility/"
+        },
+        {
+          "name": "BBC Account",
+          "value": "https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.co.uk/"
+        },
+        {
+          "name": "Home",
+          "value": "https://www.bbc.com"
+        },
+        {
+          "name": "News",
+          "value": "https://www.bbc.com/news"
+        },
+        {
+          "name": "Sport",
+          "value": "https://www.bbc.com/sport"
+        },
+        {
+          "name": "Reel",
+          "value": "https://www.bbc.com/reel"
+        },
+        {
+          "name": "Worklife",
+          "value": "https://www.bbc.com/worklife"
+        },
+        {
+          "name": "Travel",
+          "value": "https://www.bbc.com/travel"
+        },
+        {
+          "name": "Future",
+          "value": "https://www.bbc.com/future"
+        },
+        {
+          "name": "Culture",
+          "value": "https://www.bbc.com/culture"
+        },
+        {
+          "name": "Search",
+          "value": "https://www.bbc.co.uk/search"
+        },
+        {
+          "name": "Home",
+          "value": "https://www.bbc.com"
+        },
+        {
+          "name": "News",
+          "value": "https://www.bbc.com/news"
+        },
+        {
+          "name": "Sport",
+          "value": "https://www.bbc.com/sport"
+        },
+        {
+          "name": "Reel",
+          "value": "https://www.bbc.com/reel"
+        },
+        {
+          "name": "Worklife",
+          "value": "https://www.bbc.com/worklife"
+        },
+        {
+          "name": "Travel",
+          "value": "https://www.bbc.com/travel"
+        },
+        {
+          "name": "Future",
+          "value": "https://www.bbc.com/future"
+        },
+        {
+          "name": "Culture",
+          "value": "https://www.bbc.com/culture"
+        },
+        {
+          "name": "Music",
+          "value": "https://www.bbc.com/culture/music"
+        },
+        {
+          "name": "TV",
+          "value": "https://www.bbc.co.uk/schedules/p00fzl9m"
+        },
+        {
+          "name": "Weather",
+          "value": "https://www.bbc.com/weather"
+        },
+        {
+          "name": "Sounds",
+          "value": "https://www.bbc.co.uk/sounds"
+        },
+        {
+          "name": "Food plea nurse considers quitting after Covid",
+          "value": "https://www.bbc.co.uk/news/uk-56472115"
+        },
+        {
+          "name": "Decision to cut UK aid budget unlawful, says peer",
+          "value": "https://www.bbc.co.uk/news/uk-politics-56473067"
+        },
+        {
+          "name": "Justice League 'no longer fractured and disjointed – but still boring'",
+          "value": "https://www.bbc.co.uk/programmes/articles/5HY4Dz3RlbcZXv3YkhtSp2L/the-witterlist-19th-march-2021"
+        },
+        {
+          "name": "'It ticks every single detective cliche we've seen before'",
+          "value": "https://www.bbc.co.uk/blogs/5live/entries/6854079c-8de6-41f9-bcd9-2264857ce800"
+        },
+        {
+          "name": "Okolie beats Glowacki to win world title",
+          "value": "https://www.bbc.co.uk/sport/boxing/56472156"
+        },
+        {
+          "name": "Songs Phoebe Bridgers wishes she'd written. AudioSongs Phoebe Bridgers wishes she'd written",
+          "value": "https://www.bbc.co.uk/sounds/play/m000sz0h"
+        },
+        {
+          "name": "Coronavirus pandemic",
+          "value": "https://www.bbc.co.uk/news/coronavirus"
+        },
+        {
+          "name": "Covid-19: How many people have left the UK?",
+          "value": "https://www.bbc.co.uk/news/uk-56435100"
+        },
+        {
+          "name": "Qantas says vaccines will be required to fly",
+          "value": "https://www.bbc.co.uk/news/business-56460329"
+        },
+        {
+          "name": "'I isolated with mum for her last 14 days' Video'I isolated with mum for her last 14 days'",
+          "value": "https://www.bbc.co.uk/news/uk-northern-ireland-56462690"
+        },
+        {
+          "name": "News headlines",
+          "value": "https://www.bbc.co.uk/news"
+        },
+        {
+          "name": "Census to provide snapshot of life during pandemic",
+          "value": "https://www.bbc.co.uk/news/uk-56458568"
+        },
+        {
+          "name": "Mandelson urges Starmer to begin policy review",
+          "value": "https://www.bbc.co.uk/news/uk-politics-56461679"
+        },
+        {
+          "name": "Navy to protect 'critical' undersea cables",
+          "value": "https://www.bbc.co.uk/news/uk-56472655"
+        },
+        {
+          "name": "Sport headlines",
+          "value": "https://www.bbc.co.uk/sport"
+        },
+        {
+          "name": "Pivac 'numb' after Wales let Slam slip",
+          "value": "https://www.bbc.co.uk/sport/rugby-union/56472846"
+        },
+        {
+          "name": "Watch: France end Wales Grand Slam hopes in Paris thriller. VideoWatch: France end Wales Grand Slam hopes in Paris thriller",
+          "value": "https://www.bbc.co.uk/sport/av/rugby-union/56472762"
+        },
+        {
+          "name": "Wales denied Grand Slam in epic finale",
+          "value": "https://www.bbc.co.uk/sport/rugby-union/56471492"
+        },
+        {
+          "name": "Around the UK",
+          "value": "https://www.bbc.co.uk/news/uk"
+        },
+        {
+          "name": "Foreign holidays 'less likely' as Europe cases rise",
+          "value": "https://www.bbc.co.uk/news/uk-scotland-56470218"
+        },
+        {
+          "name": "Covid-19 vaccination of NI's homeless under way",
+          "value": "https://www.bbc.co.uk/news/uk-northern-ireland-56462760"
+        },
+        {
+          "name": "Employers 'looking at flexi-working permanently'",
+          "value": "https://www.bbc.co.uk/news/uk-wales-56377442"
+        },
+        {
+          "name": "Comic Relief 2021",
+          "value": "https://www.bbc.co.uk/programmes/articles/5zMqDJtY1XQmF2dTZPYBwkh/comic-relief"
+        },
+        {
+          "name": "Which celebs join in Jack Whitehall's awkward Zoom call? VideoWhich celebs join in Jack Whitehall's awkward Zoom call?",
+          "value": "https://www.bbc.co.uk/programmes/p09b8s1d"
+        },
+        {
+          "name": "Catch up on all the unmissable moments from Comic Relief. VideoCatch up on all the unmissable moments from Comic Relief",
+          "value": "https://www.bbc.co.uk/programmes/b006zrvr/clips"
+        },
+        {
+          "name": "Justin Bieber leads star-studded Red Nose Day",
+          "value": "https://www.bbc.co.uk/news/entertainment-arts-56442606"
+        },
+        {
+          "name": "Find out more",
+          "value": "https://www.bbc.co.uk/programmes/articles/5zMqDJtY1XQmF2dTZPYBwkh/comic-relief"
+        },
+        {
+          "name": "New comedies that'll give your laughter muscles a workout. AudioNew comedies that'll give your laughter muscles a workout",
+          "value": "https://www.bbc.co.uk/sounds/brand/m000t7tf"
+        },
+        {
+          "name": "Spectacular sunset photos 'took years of planning'",
+          "value": "https://www.bbc.co.uk/news/uk-england-shropshire-56455308"
+        },
+        {
+          "name": "Heavy rain unearths ancient Greek bull figurine",
+          "value": "https://www.bbc.co.uk/news/world-europe-56460693"
+        },
+        {
+          "name": "Arresting viewing, Why are we so obsessed with Line of Duty?Why are we so obsessed with Line of Duty?",
+          "value": "https://www.bbc.co.uk/programmes/articles/56Spck3q5C5gsL2xftLqnDd/how-has-line-of-duty-lasted-for-quite-so-long"
+        },
+        {
+          "name": "Latitude Festival will run at 'full capacity'",
+          "value": "https://www.bbc.co.uk/news/uk-england-suffolk-56461436"
+        },
+        {
+          "name": "Are these the most iconic 21st Century film quotes?",
+          "value": "https://www.bbc.co.uk/programmes/articles/1TPys1FcZgyp9dyq3Hyk29f/the-21-most-iconic-21st-century-movie-quotes"
+        },
+        {
+          "name": "TikTok star Addison Rae launches music career",
+          "value": "https://www.bbc.co.uk/newsround/56454955"
+        },
+        {
+          "name": "The Wall: How well do you know Tom Hanks movies? VideoThe Wall: How well do you know Tom Hanks movies?",
+          "value": "https://www.bbc.co.uk/programmes/p099w8s9"
+        },
+        {
+          "name": "Line of Duty creator on the secret of the drama's success. VideoLine of Duty creator on the secret of the drama's success",
+          "value": "https://www.bbc.co.uk/news/entertainment-arts-56462780"
+        },
+        {
+          "name": "Coronation Street uses couples as kissing doubles",
+          "value": "https://www.bbc.co.uk/news/entertainment-arts-56453954"
+        },
+        {
+          "name": "'It was the place to get that Willy Wonka feeling'",
+          "value": "https://www.bbc.co.uk/news/uk-england-south-yorkshire-56426059"
+        },
+        {
+          "name": "'I'm being financially punished because I'm in a relationship'",
+          "value": "https://www.bbc.co.uk/bbcthree/article/32c0a2c5-867b-43e6-84e3-5030c2401cd5"
+        },
+        {
+          "name": "Viral video exposes college basketball inequality",
+          "value": "https://www.bbc.co.uk/news/world-us-canada-56464331"
+        },
+        {
+          "name": "'Boxing is like a burger, your individuality is the sauce' Audio'Boxing is like a burger, your individuality is the sauce'",
+          "value": "https://www.bbc.co.uk/sounds/play/p099rh32"
+        },
+        {
+          "name": "Woman made redundant three times lands job after radio phone-in",
+          "value": "https://www.bbc.co.uk/news/uk-england-leeds-56456392"
+        },
+        {
+          "name": "'I cried with relief because I knew something was wrong'",
+          "value": "https://www.bbc.co.uk/news/uk-england-norfolk-56350682"
+        },
+        {
+          "name": "The myth of the mutiny in space",
+          "value": "https://www.bbc.co.uk/news/stories-56346001"
+        },
+        {
+          "name": "How the rich and famous cheated the US university system",
+          "value": "https://www.bbc.co.uk/news/entertainment-arts-56427793"
+        },
+        {
+          "name": "The maths challenge that gets harder as you go through it",
+          "value": "https://www.bbc.co.uk/bitesize/articles/zjqshcw"
+        },
+        {
+          "name": "Food",
+          "value": "https://www.bbc.co.uk/food"
+        },
+        {
+          "name": "Recreate your takeaway favourites at home",
+          "value": "https://www.bbc.co.uk/food/collections/takeaway_dinners"
+        },
+        {
+          "name": "Sweet and sticky cola pork slices",
+          "value": "https://www.bbc.co.uk/food/recipes/cola_pork_laksa_curry_68759"
+        },
+        {
+          "name": "Easy traybake dinners are all you need for an evening treat",
+          "value": "https://www.bbc.co.uk/food/collections/5_everyday_traybakes"
+        },
+        {
+          "name": "Alex Scott shares a complete toolkit for your mental health",
+          "value": "https://www.bbc.co.uk/programmes/articles/YfRzhXDKSZQxFVn30TlXBj/your-mental-health-toolkit"
+        },
+        {
+          "name": "Are we getting breakfast all wrong?",
+          "value": "https://www.bbc.co.uk/food/articles/healthy_breakfast"
+        },
+        {
+          "name": "The new most-desired location to move to revealed",
+          "value": "https://www.bbc.co.uk/news/business-56359865"
+        },
+        {
+          "name": "UFC's Stoliarenko collapses twice at weigh-in",
+          "value": "https://www.bbc.co.uk/sport/mixed-martial-arts/56459918"
+        },
+        {
+          "name": "Leeds great Lorimer dies aged 74",
+          "value": "https://www.bbc.co.uk/sport/football/56234156"
+        },
+        {
+          "name": "Blackmore revels in 'phenomenal' Cheltenham Festival",
+          "value": "https://www.bbc.co.uk/sport/horse-racing/56459134"
+        },
+        {
+          "name": "The forgotten referendum of 2011",
+          "value": "https://www.bbc.co.uk/news/uk-politics-56435341"
+        },
+        {
+          "name": "Is Antifa the threat it's made out to be? AudioIs Antifa the threat it's made out to be?",
+          "value": "https://www.bbc.co.uk/sounds/play/w3cszl4x"
+        },
+        {
+          "name": "Census 2021: Why it's important and when to complete it by",
+          "value": "https://www.bbc.co.uk/news/explainers-55935409"
+        },
+        {
+          "name": "Tan France: I would try to look white to be more beautiful. AudioTan France: I would try to look white to be more beautiful",
+          "value": "https://www.bbc.co.uk/sounds/play/p098s140"
+        },
+        {
+          "name": "New evidence traces origins of HIV pandemic. AudioNew evidence traces origins of HIV pandemic",
+          "value": "https://www.bbc.co.uk/sounds/play/m000tcbm"
+        },
+        {
+          "name": "Terrifying tale of two British ships caught in Arctic ice. IPlayer-VideoTerrifying tale of two British ships caught in Arctic ice",
+          "value": "https://www.bbc.co.uk/iplayer/episodes/p0954ks6/the-terror?seriesId=p0954l6v"
+        },
+        {
+          "name": "RESULTS",
+          "value": "https://www.bbc.co.uk/programmes/articles/9JzWg92Gwwn0nqLPndsC5c/latest-results"
+        },
+        {
+          "name": "Complaints",
+          "value": "https://www.bbc.co.uk/contact/complaints"
+        },
+        {
+          "name": "Read more",
+          "value": "https://downloads.bbc.co.uk/aboutthebbc/reports/pdf/bbcmsa2020.pdf"
+        },
+        {
+          "name": "Scotland",
+          "value": "https://www.bbc.co.uk/scotland"
+        },
+        {
+          "name": "ALBA",
+          "value": "https://www.bbc.co.uk/alba"
+        },
+        {
+          "name": "Wales",
+          "value": "https://www.bbc.co.uk/wales"
+        },
+        {
+          "name": "Cymru",
+          "value": "https://www.bbc.co.uk/cymru"
+        },
+        {
+          "name": "NI",
+          "value": "https://www.bbc.co.uk/northernireland"
+        },
+        {
+          "name": "Home",
+          "value": "https://www.bbc.com"
+        },
+        {
+          "name": "News",
+          "value": "https://www.bbc.com/news"
+        },
+        {
+          "name": "Sport",
+          "value": "https://www.bbc.com/sport"
+        },
+        {
+          "name": "Reel",
+          "value": "https://www.bbc.com/reel"
+        },
+        {
+          "name": "Worklife",
+          "value": "https://www.bbc.com/worklife"
+        },
+        {
+          "name": "Travel",
+          "value": "https://www.bbc.com/travel"
+        },
+        {
+          "name": "Future",
+          "value": "https://www.bbc.com/future"
+        },
+        {
+          "name": "Culture",
+          "value": "https://www.bbc.com/culture"
+        },
+        {
+          "name": "Music",
+          "value": "https://www.bbc.com/culture/music"
+        },
+        {
+          "name": "TV",
+          "value": "https://www.bbc.co.uk/schedules/p00fzl9m"
+        },
+        {
+          "name": "Weather",
+          "value": "https://www.bbc.com/weather"
+        },
+        {
+          "name": "Sounds",
+          "value": "https://www.bbc.co.uk/sounds"
+        },
+        {
+          "name": "Terms of Use",
+          "value": "https://www.bbc.co.uk/usingthebbc/terms"
+        },
+        {
+          "name": "About the BBC",
+          "value": "https://www.bbc.co.uk/aboutthebbc"
+        },
+        {
+          "name": "Privacy Policy",
+          "value": "https://www.bbc.co.uk/usingthebbc/privacy"
+        },
+        {
+          "name": "Cookies",
+          "value": "https://www.bbc.co.uk/usingthebbc/cookies"
+        },
+        {
+          "name": "Accessibility Help",
+          "value": "https://www.bbc.co.uk/accessibility"
+        },
+        {
+          "name": "Parental Guidance",
+          "value": "https://www.bbc.co.uk/iplayer/guidance"
+        },
+        {
+          "name": "Contact the BBC",
+          "value": "https://www.bbc.co.uk/contact"
+        },
+        {
+          "name": "Get Personalised Newsletters",
+          "value": "https://www.bbc.co.uk/bbcnewsletter"
+        },
+        {
+          "name": "Why you can trust the BBC",
+          "value": "https://www.bbc.co.uk/news/help-41670342"
+        },
+        {
+          "name": "Advertise with us",
+          "value": "https://www.bbcglobalnews.com/home/"
+        },
+        {
+          "name": "AdChoices / Do Not Sell My Info",
+          "value": "https://www.bbc.com/usingthebbc/cookies/how-can-i-change-my-bbc-cookie-settings/"
+        },
+        {
+          "name": "Read about our approach to external linking.",
+          "value": "https://www.bbc.co.uk/editorialguidelines/guidance/feeds-and-links"
+        }
+      ]
+    },
+    "BBC Accessibility - Welcome": {
+      "page_url": "https://www.bbc.co.uk/accessibility/",
+      "assets": {
+        "css_fonts": [
+          {
+            "asset_type": "stylesheet",
+            "url": "/accessibility/forproducts/assets/core.css"
+          },
+          {
+            "asset_type": "stylesheet",
+            "url": "/accessibility/forproducts/assets/gel-typography.min.css"
+          },
+          {
+            "asset_type": "stylesheet",
+            "url": "/accessibility/forproducts/assets/gel-grid.min.css"
+          },
+          {
+            "asset_type": "stylesheet",
+            "url": "https://nav.files.bbci.co.uk/orbit/2.0.0-484.dce9fee/css/orb-ltr.min.css"
+          },
+          {
+            "asset_type": "stylesheet",
+            "url": "https://mybbc.files.bbci.co.uk/s/id/account-idcta/1.10.0/style/id-cta.css"
+          },
+          {
+            "asset_type": "stylesheet",
+            "url": "https://nav.files.bbci.co.uk/searchbox/1.0.0-19.f0f6837/css/main.css"
+          }
+        ],
+        "js": [
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "https://nav.files.bbci.co.uk/orbit/2.0.0-484.dce9fee/js/require.min.js"
+          },
+          {
+            "name": "script",
+            "value": "https://nav.files.bbci.co.uk/orbit-webmodules/0.0.1-229.8f0b237/cookie-banner/cookie-library.min.js"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "https://nav.files.bbci.co.uk/orbit/2.0.0-484.dce9fee/js/api.min.js"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "/accessibility/forproducts/assets/a11y-menu.min.js"
+          },
+          {
+            "name": "script",
+            "value": "/accessibility/forproducts/assets/prettify.js"
+          }
+        ]
+      },
+      "links": [
+        {
+          "name": "Homepage",
+          "value": "https://www.bbc.co.uk"
+        },
+        {
+          "name": "BBC Account",
+          "value": "https://account.bbc.com/account"
+        },
+        {
+          "name": "Home",
+          "value": "https://www.bbc.co.uk"
+        },
+        {
+          "name": "News",
+          "value": "https://www.bbc.co.uk/news"
+        },
+        {
+          "name": "Sport",
+          "value": "https://www.bbc.co.uk/sport"
+        },
+        {
+          "name": "Weather",
+          "value": "https://www.bbc.co.uk/weather"
+        },
+        {
+          "name": "iPlayer",
+          "value": "https://www.bbc.co.uk/iplayer"
+        },
+        {
+          "name": "Sounds",
+          "value": "https://www.bbc.co.uk/sounds"
+        },
+        {
+          "name": "CBBC",
+          "value": "https://www.bbc.co.uk/cbbc"
+        },
+        {
+          "name": "CBeebies",
+          "value": "https://www.bbc.co.uk/cbeebies"
+        },
+        {
+          "name": "Food",
+          "value": "https://www.bbc.com/food"
+        },
+        {
+          "name": "Bitesize",
+          "value": "https://www.bbc.com/bitesize"
+        },
+        {
+          "name": "Earth",
+          "value": "https://www.bbc.com/earth"
+        },
+        {
+          "name": "Arts",
+          "value": "https://www.bbc.co.uk/arts"
+        },
+        {
+          "name": "Make It Digital",
+          "value": "https://www.bbc.co.uk/makeitdigital"
+        },
+        {
+          "name": "Taster",
+          "value": "https://www.bbc.co.uk/taster"
+        },
+        {
+          "name": "Local",
+          "value": "https://www.bbc.co.uk/news/localnews"
+        },
+        {
+          "name": "Tomorrow's World",
+          "value": "https://www.bbc.co.uk/tomorrowsworld"
+        },
+        {
+          "name": "TV",
+          "value": "https://www.bbc.co.uk/tv"
+        },
+        {
+          "name": "Radio",
+          "value": "https://www.bbc.co.uk/radio"
+        },
+        {
+          "name": "Search",
+          "value": "https://search.bbc.co.uk/search"
+        },
+        {
+          "name": "BBC Shows and Tours, booking assistance",
+          "value": "https://www.bbc.co.uk/showsandtours/questions/accessibility-information"
+        },
+        {
+          "name": "BBC iPlayer, Accessibility FAQs",
+          "value": "https://www.bbc.co.uk/iplayer/help/questions/accessibility"
+        },
+        {
+          "name": "BBC iPlayer, Playing Content",
+          "value": "https://www.bbc.co.uk/iplayer/help/questions/accessibility/accessibility-playing-content"
+        },
+        {
+          "name": "BBC iPlayer, Audio Described Content",
+          "value": "https://www.bbc.co.uk/iplayer/categories/audio-described/featured"
+        },
+        {
+          "name": "BBC iPlayer, Signed Content",
+          "value": "https://www.bbc.co.uk/iplayer/categories/signed/featured"
+        },
+        {
+          "name": "BBC Sounds Accessibility Information",
+          "value": "https://www.bbc.co.uk/sounds/help/questions/about-bbc-sounds-and-our-policies/accessibility-info"
+        },
+        {
+          "name": "Cbeebies, Parents Pages for Children with Special Needs",
+          "value": "https://www.bbc.co.uk/cbeebies/grownups/age-and-needs/special-needs#filter"
+        },
+        {
+          "name": "BBC Policies and Guidelines",
+          "value": "https://www.bbc.co.uk/aboutthebbc/reports/policies"
+        },
+        {
+          "name": "BBC Freedom of Information",
+          "value": "https://www.bbc.co.uk/foi/publication-scheme/classes/policies-and-procedures"
+        },
+        {
+          "name": "BBC Accessibility Policy",
+          "value": "https://www.bbc.co.uk/foi/publication-scheme/accessibility"
+        },
+        {
+          "name": "BBC Accessibility Policy Statement",
+          "value": "https://downloads.bbc.co.uk/diversity/pdf/BBC_Accessibility.pdf"
+        },
+        {
+          "name": "BBC iPlayer, Criptales",
+          "value": "https://www.bbc.co.uk/iplayer/episodes/m000p35p/criptales"
+        },
+        {
+          "name": "BBC Sounds, 1800 Seconds on Autism",
+          "value": "https://www.bbc.co.uk/sounds/search?q=1800%20Seconds%20on%20Autism&suggid=urn%3Abbc%3Aprogrammes%3Ap06sdq0x"
+        },
+        {
+          "name": "BBC Sounds, Ouch!",
+          "value": "https://www.bbc.co.uk/programmes/p02r6yqw/episodes/downloads"
+        },
+        {
+          "name": "BBC 2, See Hear",
+          "value": "https://www.bbc.co.uk/programmes/b006m9cb"
+        },
+        {
+          "name": "BBC Radio 4, In Touch",
+          "value": "https://www.bbc.co.uk/programmes/b006qxww"
+        },
+        {
+          "name": "CBeebies, Something Special",
+          "value": "https://www.bbc.co.uk/cbeebies/shows/something-special"
+        },
+        {
+          "name": "CBeebies, Magic Hands",
+          "value": "https://www.bbc.co.uk/cbeebies/shows/magic-hands"
+        },
+        {
+          "name": "CBeebies, Pablo",
+          "value": "https://www.bbc.co.uk/cbeebies/shows/pablo"
+        },
+        {
+          "name": "BBC a11y testing tool",
+          "value": "https://www.bbc.co.uk/opensource/projects/bbc-a11y"
+        },
+        {
+          "name": "BBC Academy - How to Design for Screen Readers",
+          "value": "https://www.bbc.co.uk/academy/en/collections/designing-for-screen-readers"
+        },
+        {
+          "name": "BBC Digital Product, Web and Mobile Accessibility Guidelines",
+          "value": "https://www.bbc.co.uk/accessibility/forproducts/guides/mobile/"
+        },
+        {
+          "name": "BBC GEL Designing for Accessibility",
+          "value": "https://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility"
+        },
+        {
+          "name": "BBC GEL Designing Accessible Games",
+          "value": "https://www.bbc.co.uk/gel/guidelines/how-to-design-accessible-games"
+        },
+        {
+          "name": "BBC GEL Designing Accessible Animated Images",
+          "value": "https://www.bbc.co.uk/gel/guidelines/how-to-make-accessible-animated-images"
+        },
+        {
+          "name": "BBC GEL Designing Accessible Email Newsletters",
+          "value": "https://www.bbc.co.uk/gel/guidelines/how-to-design-accessible-email-newsletters"
+        },
+        {
+          "name": "BBC GEL Technical Accessibility Documents",
+          "value": "https://bbc.github.io/gel/"
+        },
+        {
+          "name": "BBC News Accessibility",
+          "value": "https://bbc.github.io/accessibility-news-and-you/"
+        },
+        {
+          "name": "BBC Open Source Projects",
+          "value": "https://www.bbc.co.uk/opensource/"
+        },
+        {
+          "name": "BBC Production Accessibility Guide",
+          "value": "https://downloads.bbc.co.uk/diversity/pdf/BBC_productionaccessguide_spreads.pdf"
+        },
+        {
+          "name": "BBC Research and Development",
+          "value": "https://www.bbc.co.uk/rd/topics/accessibility"
+        },
+        {
+          "name": "BBC Subtitle Guidelines",
+          "value": "https://bbc.github.io/subtitle-guidelines/"
+        },
+        {
+          "name": "BBC Workplace Neurodiversity Guidelines",
+          "value": "https://bbc.github.io/uxd-cognitive/"
+        },
+        {
+          "name": "BBC for Everyone",
+          "value": "https://www.bbc.co.uk/gel/articles/bbc-for-everyone"
+        },
+        {
+          "name": "BBC Access Services Subtitles, Signing and Audio Description",
+          "value": "https://www.bbc.com/aboutthebbc/whatwedo/publicservices/accessservices"
+        },
+        {
+          "name": "BBC Annual Report",
+          "value": "https://www.bbc.com/aboutthebbc/reports/annualreport"
+        },
+        {
+          "name": "BBC Creative Diversity The Future of Inclusion",
+          "value": "https://www.bbc.co.uk/creativediversity/"
+        },
+        {
+          "name": "BBC Diversity",
+          "value": "https://www.bbc.co.uk/diversity/"
+        },
+        {
+          "name": "BBC Editorial Policy Accessibility Guidance for Vision and Hearing Impaired Audiences",
+          "value": "https://www.bbc.co.uk/editorialguidelines/guidance/visually-and-hearing-impaired-audiences"
+        },
+        {
+          "name": "BBC See Hear, How Subtitles are Made",
+          "value": "https://youtu.be/u2K9-JPIPjg"
+        },
+        {
+          "name": "Cbeebies Everyone's Welcome",
+          "value": "https://www.bbc.co.uk/cbeebies/grownups/everyones-welcome"
+        },
+        {
+          "name": "OFCOM Usability and Accessibility Research",
+          "value": "https://www.ofcom.org.uk/research-and-data/multi-sector-research/accessibility-research"
+        },
+        {
+          "name": "BBC Procurement Accessibility Policy and Guidance",
+          "value": "https://www.bbc.co.uk/supplying/working-with-us/accessibility"
+        },
+        {
+          "name": "BBC a11y, The BBC Digital Accessibility Team",
+          "value": "https://twitter.com/bbca11y"
+        },
+        {
+          "name": "BBC Ability, The BBC's Disabled Staff Network",
+          "value": "https://twitter.com/bbc_ability"
+        },
+        {
+          "name": "BBC CAPE, Creating A Positive Environment",
+          "value": "https://twitter.com/BBCCape"
+        },
+        {
+          "name": "BBC Ouch! Original Disability Stories",
+          "value": "https://twitter.com/bbcouch"
+        },
+        {
+          "name": "BBC Academy, Training and Development",
+          "value": "https://twitter.com/BBCAcademy"
+        },
+        {
+          "name": "BBC Press Office",
+          "value": "https://twitter.com/bbcpress"
+        },
+        {
+          "name": "BBC Careers, Jobs, Careers Advice and Insights into Life at The BBC",
+          "value": "https://twitter.com/BBCCareers"
+        },
+        {
+          "name": "BBC R&D, Research and Development",
+          "value": "https://twitter.com/BBCRD"
+        },
+        {
+          "name": "BBC UX&D, User Experience and Design Team",
+          "value": "https://twitter.com/bbcuxd"
+        },
+        {
+          "name": "Help with Using Your Computer, Tablet or phone",
+          "value": "https://mcmw.abilitynet.org.uk/"
+        },
+        {
+          "name": "Apple Accessibility Support",
+          "value": "https://support.apple.com/en-gb/accessibility"
+        },
+        {
+          "name": "Google Accessibility Support",
+          "value": "https://www.google.com/accessibility/"
+        },
+        {
+          "name": "Microsoft Accessibility Support",
+          "value": "https://www.microsoft.com/en-us/accessibility/features?activetab=pivot_1%3aprimaryr2"
+        },
+        {
+          "name": "Home",
+          "value": "https://www.bbc.co.uk"
+        },
+        {
+          "name": "News",
+          "value": "https://www.bbc.co.uk/news"
+        },
+        {
+          "name": "Sport",
+          "value": "https://www.bbc.co.uk/sport"
+        },
+        {
+          "name": "Weather",
+          "value": "https://www.bbc.co.uk/weather"
+        },
+        {
+          "name": "iPlayer",
+          "value": "https://www.bbc.co.uk/iplayer"
+        },
+        {
+          "name": "Sounds",
+          "value": "https://www.bbc.co.uk/sounds"
+        },
+        {
+          "name": "CBBC",
+          "value": "https://www.bbc.co.uk/cbbc"
+        },
+        {
+          "name": "CBeebies",
+          "value": "https://www.bbc.co.uk/cbeebies"
+        },
+        {
+          "name": "Food",
+          "value": "https://www.bbc.com/food"
+        },
+        {
+          "name": "Bitesize",
+          "value": "https://www.bbc.com/bitesize"
+        },
+        {
+          "name": "Earth",
+          "value": "https://www.bbc.com/earth"
+        },
+        {
+          "name": "Arts",
+          "value": "https://www.bbc.co.uk/arts"
+        },
+        {
+          "name": "Make It Digital",
+          "value": "https://www.bbc.co.uk/makeitdigital"
+        },
+        {
+          "name": "Taster",
+          "value": "https://www.bbc.co.uk/taster"
+        },
+        {
+          "name": "Local",
+          "value": "https://www.bbc.co.uk/news/localnews"
+        },
+        {
+          "name": "Tomorrow's World",
+          "value": "https://www.bbc.co.uk/tomorrowsworld"
+        },
+        {
+          "name": "TV",
+          "value": "https://www.bbc.co.uk/tv"
+        },
+        {
+          "name": "Radio",
+          "value": "https://www.bbc.co.uk/radio"
+        },
+        {
+          "name": "Terms of Use",
+          "value": "https://www.bbc.co.uk/usingthebbc/terms/"
+        },
+        {
+          "name": "About the BBC",
+          "value": "https://www.bbc.co.uk/aboutthebbc"
+        },
+        {
+          "name": "Privacy Policy",
+          "value": "https://www.bbc.co.uk/usingthebbc/privacy/"
+        },
+        {
+          "name": "Cookies",
+          "value": "https://www.bbc.co.uk/usingthebbc/cookies/"
+        },
+        {
+          "name": "Accessibility Help",
+          "value": "https://www.bbc.co.uk/accessibility/"
+        },
+        {
+          "name": "Parental Guidance",
+          "value": "https://www.bbc.co.uk/guidance"
+        },
+        {
+          "name": "Contact the BBC",
+          "value": "https://www.bbc.co.uk/contact"
+        },
+        {
+          "name": "Get Personalised Newsletters",
+          "value": "https://www.bbc.co.uk/bbcnewsletter"
+        },
+        {
+          "name": "Read about our approach to external linking.",
+          "value": "https://www.bbc.co.uk/help/web/links/"
+        }
+      ]
+    },
+    "position": 1
+  }
+]

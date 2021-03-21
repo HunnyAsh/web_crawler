@@ -1,0 +1,520 @@
+[
+  {
+    "BBC - Homepage": {
+      "page_url": "http://bbc.com/",
+      "assets": {
+        "css_fonts": [
+          {
+            "asset_type": "apple-touch-icon",
+            "url": "https://gn-web-assets.api.bbc.com/wwhp/20210222-0913-13d09a2a9c8c32b50626600535f23f7853b7385f/responsive/img/apple-touch/apple-touch-180.jpg"
+          },
+          {
+            "asset_type": "stylesheet",
+            "url": "https://static.files.bbci.co.uk/orbit/dd6efffd3d04d21e591688b467b3e645/css/orb-ltr.min.css"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSans_W_Rg.woff2"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSerif_W_Rg.woff2"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSans_W_It.woff2"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSerif_W_It.woff2"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSans_W_Bd.woff2"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSerif_W_Bd.woff2"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSans_W_BdIt.woff2"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSerif_W_BdIt.woff2"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSans_W_Lt.woff2"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSerif_W_Lt.woff2"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSans_W_LtIt.woff2"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSerif_W_LtIt.woff2"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSans_W_ExBd.woff2"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSerif_W_ExBd.woff2"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSans_W_ExBdIt.woff2"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSerif_W_ExBdIt.woff2"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSans_W_Md.woff2"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSerif_W_Md.woff2"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSans_W_MdIt.woff2"
+          },
+          {
+            "asset_type": "font/woff2",
+            "url": "https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSerif_W_MdIt.woff2"
+          },
+          {
+            "asset_type": "stylesheet",
+            "url": "https://static.files.bbci.co.uk/orbit/dd6efffd3d04d21e591688b467b3e645/css/orb-ltr.min.css"
+          },
+          {
+            "asset_type": "stylesheet",
+            "url": "https://static.files.bbci.co.uk/account/id-cta/1.53.22/style/id-cta.css"
+          },
+          {
+            "asset_type": "stylesheet",
+            "url": "https://nav.files.bbci.co.uk/searchbox/5680658fe2eb387706c522e615d4ad13/css/main.css"
+          },
+          {
+            "asset_type": "stylesheet",
+            "url": "https://gn-web-assets.api.bbc.com/wwhp/20210222-0913-13d09a2a9c8c32b50626600535f23f7853b7385f/responsive/css/wwhp.min.css"
+          }
+        ],
+        "js": [
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "https://static.files.bbci.co.uk/orbit/dd6efffd3d04d21e591688b467b3e645/js/require.min.js"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "https://static.files.bbci.co.uk/orbit/dd6efffd3d04d21e591688b467b3e645/js/api-forge-free.min.js"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "https://nav.files.bbci.co.uk/orbit-webmodules/0.0.2-590.f4b80f3/cookie-banner/cookie-library.bundle.js"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "https://mybbc-analytics.files.bbci.co.uk/reverb-client-js/reverb-2.0.3.js"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "https://gn-web-assets.api.bbc.com/wwhp/20210222-0913-13d09a2a9c8c32b50626600535f23f7853b7385f/modules/vendor/bower/modernizr/modernizr.js"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          },
+          {
+            "name": "script",
+            "value": "Compiled JS"
+          }
+        ],
+        "links": [
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/accessibility/"
+          },
+          {
+            "name": "a",
+            "value": "https://account.bbc.com/account"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/news"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/sport"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/weather"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/iplayer"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/sounds"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/cbbc"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/cbeebies"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/food"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/bitesize"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/arts"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/taster"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/news/localnews"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/bbcthree"
+          },
+          {
+            "name": "a",
+            "value": "https://search.bbc.co.uk/search"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/travel/story/20210315-ackee-and-saltfish-jamaicas-breakfast-of-champions"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/travel"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/travel/story/20210315-ackee-and-saltfish-jamaicas-breakfast-of-champions"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/culture/article/20210311-a-cultural-history-of-the-nude-selfie"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/culture/article/20210311-a-cultural-history-of-the-nude-selfie"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/future/article/20210316-the-legendary-fabric-that-no-one-knows-how-to-make"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/future/article/20210316-the-legendary-fabric-that-no-one-knows-how-to-make"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/travel/story/20210314-waldeinsamkeit-germanys-cherished-forest-tradition"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/travel/story/20210314-waldeinsamkeit-germanys-cherished-forest-tradition"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/worklife/article/20210310-why-we-procrastinate-on-the-tiniest-of-tasks"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/worklife/article/20210310-why-we-procrastinate-on-the-tiniest-of-tasks"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/future/bespoke/follow-the-food/how-to-cut-your-foods-carbon-footprint/"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/future/bespoke/follow-the-food/"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/future/bespoke/follow-the-food/how-to-cut-your-foods-carbon-footprint/"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/programmes/articles/pdQYnxWrVCB1Dl2MvbddYr/the-ultimate-pizza-quiz"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/programmes/p025ht2f"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/programmes/articles/pdQYnxWrVCB1Dl2MvbddYr/the-ultimate-pizza-quiz"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/bbcthree/article/1c7469a5-c154-4c54-b0d9-05e82b9b642f"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/bbcthree"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/bbcthree/article/1c7469a5-c154-4c54-b0d9-05e82b9b642f"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/news/business-11428889"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/news/business-56413186"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/news/business-56413186"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/reel/playlist/creativity-collective"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/reel"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/reel/video/p098mgm9/how-to-become-the-person-everyone-comes-to-for-advice"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/reel/video/p098mgm9/how-to-become-the-person-everyone-comes-to-for-advice"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/news/world-us-canada-56462791"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/news/world-us-canada-56446814"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/news/world-europe-56440485"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/news/world-56415248"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/news/business-56429394"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/news/science-environment-56430542"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/news/world-asia-56382793"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/news/technology-56416578"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/news/business-11428889"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/news/business-56320899"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/news/business-56320899"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/news/business-15521824"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/news/business-56334015"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.com/news/business-56334015"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/news"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/sport"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/weather"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/iplayer"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/sounds"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/cbbc"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/cbeebies"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/food"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/bitesize"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/arts"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/taster"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/news/localnews"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/bbcthree"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/usingthebbc/terms/"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/aboutthebbc"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/usingthebbc/privacy/"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/usingthebbc/cookies/"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/accessibility/"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/guidance"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/contact"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/bbcnewsletter"
+          },
+          {
+            "name": "a",
+            "value": "https://www.bbc.co.uk/editorialguidelines/guidance/feeds-and-links"
+          }
+        ]
+      }
+    },
+    "position": 1
+  }
+]
